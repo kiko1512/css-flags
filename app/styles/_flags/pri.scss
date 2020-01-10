@@ -4,9 +4,9 @@
 @mixin flag-pri() {
   @include ratio(2 / 3);
   $unit: $h30;
-  $blue: #012169;
+  $blue: #0000ff;
   $white: #FFF;
-  $red: #ba0c2f;
+  $red: #ff0000;
   $stripe-height: 20%;
 
   $triangle: $blue;
