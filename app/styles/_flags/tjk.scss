@@ -3,9 +3,9 @@
 @mixin flag-tjk() {
   @include ratio(2 / 3);
   $unit: $height / 280;
-  $green: #060;
+  $red: #060;
   $white: #FFF;
-  $red: #c00;
+  $green: #c00;
   $yellow: #f8c300;
   $stripe-small-height: 80 * $unit;
   $stripe-big-height: 120 * $unit;
